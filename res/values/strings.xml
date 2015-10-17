@@ -1,0 +1,53 @@
+<resources>
+
+    <string name="app_name">youni</string>
+    
+        <string name="home">主页</string>
+         <string name="main">主页</string>
+    <string name="publish">发布</string>
+    <string name="donation">捐资</string>
+    <string name="me">我的</string>
+    <string name="action_settings">刷新</string>
+    
+    <string name="search_something">Search somthing</string>
+    <string name="search">搜索</string>
+
+       <string name="check">确认</string>
+       <string name="ID">ID</string>
+       <string name="detailed">Detailed</string>
+       <string name="button">button</string>
+    <string name="withoutlogin">您还没有登录哦</string>
+    <string name="logon">登录</string>
+      <string name="login">登录</string>
+    <string name="publish1">我的发布</string>
+    <string name="follow">我的关注</string>
+    <string name="donation1">我的捐赠</string>
+    <string name="logout">退出登录</string>
+     <string name="et_name">请输入关键字</string>
+     <string name="button1">搜索</string>
+     <string name="input_tytle..">input tytle..</string>
+     <string name="need">我需要</string>
+     <string name="dele">取消发布</string>
+     <string name="address">地址</string>
+     <string name="input_address">input_address</string>
+     <string name="say_something">say something..</string>
+     <string name="check1">确认发布</string>
+     <string name="address1">address :</string>
+     <string name="how_many">how many..</string>
+     <string name="money">金额:</string>
+     <string name="explain">说明：您所捐赠的捐款将以帮付邮费的形式,让物资更顺利地送达贫困地区。</string>
+     <string name="doit">我也要出一分力..</string>
+     <string name="delet">取消</string>
+     <string name="check2">确定</string>
+     <string name="word">留言 :</string>
+     <string name="zhanghu">账户</string>
+      <string name="mima">请输入密码</string>
+       <string name="zhanghuming">账户名</string>
+        <string name="password">密码</string>
+        <string name="find">找回密码</string>
+         <string name="donation2">我要捐</string>
+          <string name="fast">快速注册</string>
+         
+        
+
+</resources>
